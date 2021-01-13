@@ -24,4 +24,4 @@ Including `/test.md`
 
 Including `https://github.com/adobe/helix-home/blob/main/docs/architecture.md`
 
-https://github.com/adobe/helix-home/blob/main/docs/architecture.md
+/home/docs/architecture.md
