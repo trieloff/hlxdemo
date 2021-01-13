@@ -18,17 +18,10 @@
 
 # Helix - hlxdemo
 
-It works! hlxdemo is up and running.
+Including `/test.md`
 
-## What's next?
+/test.md
 
-1. Try editing `index.md` and see what happens.
-2. Try editing `src/html.htl` to change the HTML output
-3. Try editing `htdocs/style.css` to change the way this page looks
+Including `https://github.com/adobe/helix-home/blob/main/docs/architecture.md`
 
-## And then?
-
-4. Commit your changes: `git commit -a`
-5. Publish your project to GitHub: `git remote add origin https://github.com/user/repo.git && git push`
-6. Deploy the project: `hlx deploy`
-7. Make it visible to the world: `hlx publish`
+https://github.com/adobe/helix-home/blob/main/docs/architecture.md
